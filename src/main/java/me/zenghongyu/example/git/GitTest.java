@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("master second commit");
         System.out.println("dev second commit");
         System.out.println("change in github");
+         System.out.println("second change in github");
         System.out.println("change in local");
     }
 }
