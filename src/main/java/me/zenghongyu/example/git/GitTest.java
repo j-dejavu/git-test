@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("Hello,Git");
         System.out.println("This is dev branch");
         System.out.println("master second commit");
+        System.out.println("dev second commit");
     }
 }
