@@ -11,5 +11,6 @@ public class GitTest {
          System.out.println("second change in github");
         System.out.println("change in local");
         System.out.println("push to gitee");
+        System.out.println("change in gitee");
     }
 }
